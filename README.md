@@ -1,5 +1,8 @@
-![logo](https://github.com/kawakibb/kawakibb/blob/main/Cover.png)
-<h1 align="center">Hi 👋, I'm kawthar</h1>
+![Introlight](https://github.com/kawakibb/kawakibb/assets/128944482/32f92505-485e-451f-b710-5ea3b30604aa)
+<h1 al
+ign="center">Hi 👋
+, I'm kawthar
+</h1>
 <h3 align="center">a software engineering student</h3>
 
 - 👀 **Throughout my learning journey, I've delved into diverse areas, including low-level programming, high-level programming, system engineering and devops. My approach involves peer-learning and project-based methodologies.**
