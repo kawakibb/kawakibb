@@ -4,7 +4,7 @@
 ign="center">Hi 👋
 , I'm kawthar
 </h1>
-<h3 align="center">a software engineering student</h3>
+<h3 align="center">Welcome, Let's follow each other</h3>
 
 - 👀 **Throughout my learning journey, I've delved into diverse areas, including low-level programming, high-level programming, system engineering and devops. My approach involves peer-learning and project-based methodologies.**
 
