@@ -1,3 +1,4 @@
+![logo](https://github.com/kawakibb/kawakibb/blob/main/Cover.png)
 <h1 align="center">Hi 👋, I'm kawthar</h1>
 <h3 align="center">a software engineering student</h3>
 
