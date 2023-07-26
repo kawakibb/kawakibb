@@ -1,4 +1,4 @@
-![Introkawakib1](https://github.com/kawakibb/kawakibb/assets/128944482/baccc6f0-cfc1-493e-84f7-9b69a89020b7)
+ <!--![Introkawakib1] (https://github.com/kawakibb/kawakibb/assets/128944482/baccc6f0-cfc1-493e-84f7-9b69a89020b7)-->
 
 <h1 align="center">Hi 👋
 , I'm kawthar
