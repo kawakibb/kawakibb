@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawakibb&theme=holi&show_icons=true&locale=en" alt="kawakibb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kawakibb&theme=holi&border_radius=6&mode=weekly&card_width=850/?user=kawakibb&"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kawakibb&theme=github-light&border_radius=6&mode=weekly&card_width=850/?user=kawakibb&"/></p>
 
 ![233m04x0r0lv60payria](https://github.com/kawakibb/kawakibb/assets/128944482/8a979712-7ab3-4ada-b694-585c8a3bc00b)
